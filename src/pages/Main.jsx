@@ -68,7 +68,7 @@ const Main=()=>{
         .catch(error=>{
             console.log(error);
         })
-        //navigate(`/`);
+        navigate(`/`);
     }
 
 
