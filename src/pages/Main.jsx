@@ -61,13 +61,6 @@ const Main=()=>{
 
     //로그아웃
     const Logoutfuc=()=>{
-        axios.post(`/api/users/${userId}/log-out`)
-        .then(res=>{
-            navigate(`/`);
-        })
-        .catch(error=>{
-            console.log(error);
-        })
         navigate(`/`);
     }
 
