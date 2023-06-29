@@ -44,7 +44,7 @@ const Main=()=>{
 
     //유저정보 받아오기
     const getUserInfo=()=>{
-        axios.get(`/api/plans/${userId}?month=${month}&day=${day}`)
+        axios.get(`api/plans/${userId}?month=${month}&day=${day}`)
         .then((res)=>{
             //console.log("성공");
             setPlans(res.data);
