@@ -25,7 +25,6 @@
     "eject": "react-scripts eject",
     "deploy": "aws s3 sync ./build s3://playeon --profile=playeon"
   },
-  "homepage": "https://amazing-belekoy-2c3994.netlify.app/",
   "eslintConfig": {
     "extends": [
       "react-app",
