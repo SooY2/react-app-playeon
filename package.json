@@ -9,6 +9,7 @@
     "aws": "^0.0.3-2",
     "axios": "^1.4.0",
     "cors": "^2.8.5",
+    "gh-pages": "^5.0.0",
     "http-proxy-middleware": "^2.0.6",
     "netlify": "^13.1.9",
     "react": "^18.2.0",
@@ -23,8 +24,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "aws s3 sync ./build s3://playeon --profile=playeon"
+    "deploy": "gh-pages -d build"
   },
+  "homepage":"https://SooY2.github.io/react-app-playeon",
   "eslintConfig": {
     "extends": [
       "react-app",
