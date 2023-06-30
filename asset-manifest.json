@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-app-playeon/static/css/main.00f17d55.css",
-    "main.js": "/react-app-playeon/static/js/main.52bc7c2a.js",
+    "main.js": "/react-app-playeon/static/js/main.ad2f2cc3.js",
     "static/js/787.e5b6f141.chunk.js": "/react-app-playeon/static/js/787.e5b6f141.chunk.js",
     "static/media/Logo.png": "/react-app-playeon/static/media/Logo.53f976cbdcbbaf27e728.png",
     "index.html": "/react-app-playeon/index.html",
     "main.00f17d55.css.map": "/react-app-playeon/static/css/main.00f17d55.css.map",
-    "main.52bc7c2a.js.map": "/react-app-playeon/static/js/main.52bc7c2a.js.map",
+    "main.ad2f2cc3.js.map": "/react-app-playeon/static/js/main.ad2f2cc3.js.map",
     "787.e5b6f141.chunk.js.map": "/react-app-playeon/static/js/787.e5b6f141.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00f17d55.css",
-    "static/js/main.52bc7c2a.js"
+    "static/js/main.ad2f2cc3.js"
   ]
 }
