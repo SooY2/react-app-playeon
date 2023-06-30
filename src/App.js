@@ -1,12 +1,10 @@
-import {BrowserRouter,Route,Routes} from "react-router-dom";
+import {Route,Routes} from "react-router-dom";
 import {useState} from "react";
 
 import {Landing, Join, Main} from "./pages";
 
 
 function App() {
-
-  let [tmp,setTmp]=useState(10);
 
   return (<div>
     
