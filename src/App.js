@@ -11,9 +11,9 @@ function App() {
   return (<div>
     <BrowserRouter>
     <Routes>
-      <Route path="/" element={<Landing/>}></Route>
-      <Route path="/join" element={<Join/>}></Route>
-      <Route path="/main/:userId" element={<Main/>}></Route>
+      <Route path="/react-app-playeon" element={<Landing/>}></Route>
+      <Route path="/react-app-playeon/join" element={<Join/>}></Route>
+      <Route path="/react-app-playeon/main/:userId" element={<Main/>}></Route>
     </Routes>
     </BrowserRouter>
 

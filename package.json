@@ -26,7 +26,7 @@
     "eject": "react-scripts eject",
     "deploy": "gh-pages -d build"
   },
-  "homepage":"http://SooY2.github.io/react-app-playeon/index.html",
+  "homepage":"http://SooY2.github.io/react-app-playeon",
   "eslintConfig": {
     "extends": [
       "react-app",
